@@ -4,6 +4,8 @@
 # Hi there 👋
 
 ## My name is Alana Caporale
+> Check out my latest work by going to https://alanacapcreates.com
+
 
 ```javascript
 let alana = new Developer();
