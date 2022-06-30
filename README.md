@@ -1,5 +1,5 @@
 
-<img src="https://github.com/alanacapcreates/acc-portfolio/blob/main/img/ACC-small-lightmode.svg" width="100px">
+<img src="https://github.com/alanacapcreates/alanacapcreates/blob/main/ACC-small-lightmode.svg" width="100px">
 
 # Hi there 👋
 
