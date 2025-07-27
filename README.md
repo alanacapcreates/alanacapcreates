@@ -1,4 +1,3 @@
-
 <img width="100px" height="100px" alt="Alana Cap Creates Logo" src="https://github.com/user-attachments/assets/34cf80fd-af74-4fc2-9980-263dd62ad9a3" />
 
 
@@ -12,35 +11,35 @@
 let alana = new Developer();
 
 alana.education = {
-  school: “St. Joseph’s College | Long Island Campus”,
-  graduationYear: 2020,
-  major: “B.S Computer Science”,
-  minor: “Digital Design”,
+  school: 'St. Joseph’s College | Long Island Campus',
+  graduationYear: '2020',
+  major: 'B.S Computer Science',
+  minor: 'Digital Design',
 }
 alana.latestWorkExperience = {
-  company: “Hencove”,
-  position: “Full Time”,
-  role: “Frontend Developer”,
-  startDate: “September 2023”,
-  endDate: “present”
+  company: 'Hencove',
+  position: 'Full Time',
+  role: 'Frontend Developer',
+  startDate: 'September 2023',
+  endDate: 'present'
 }
 alana.skills = {
-  languages: [“HTML” , “SCSS/CSS” , “JavaScript”],
-  tech: [“Adobe Creative Suite”, "Figma", "Wix Studio", "Webflow", "WordPress", "HubSpot", "Salesforce"]
+  languages: ['HTML' , 'SCSS/CSS' , 'JavaScript'],
+  tech: ['Adobe Creative Suite', 'Figma', 'Wix Studio', 'Webflow', 'WordPress', 'HubSpot", 'Salesforce']
 }
-alana.interests = ["gluten free food", “sci-fi movies”, “coding”, “tennis”]
+alana.interests = ['gluten free food', 'sci-fi movies', 'coding', 'tennis']
 alana.funFacts = {
   pets:{
     hasDogs = true,
-    numberOfDogs = 4,
+    numberOfDogs = '4',
     petBios = [
-      {name: “Stella”, age: 8},
-      {name: “Gracie”, age: 6},
-      {name: “Charlotte”, age: 5},
-      {name: “Josie”, age: 1},
+      {name: 'Stella', age: '8'},
+      {name: 'Gracie', age: '6'},
+      {name: 'Charlotte', age: '5'},
+      {name: 'Josi'”, age: '1'},
     ]
   },
-  favCoffee = “Vanilla Sweet Cream Cold Brew”
+  favCoffee = 'Vanilla Sweet Cream Cold Brew'
 }
 
 ```
