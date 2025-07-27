@@ -1,5 +1,6 @@
 
-<img src="https://github.com/alanacapcreates/alanacapcreates/blob/main/ACC-small-lightmode.svg" width="100px">
+<img width="100px" height="100px" alt="Alana Cap Creates Logo" src="https://github.com/user-attachments/assets/34cf80fd-af74-4fc2-9980-263dd62ad9a3" />
+
 
 # Hi there 👋
 
@@ -15,29 +16,28 @@ alana.education = {
   graduationYear: 2020,
   major: “B.S Computer Science”,
   minor: “Digital Design”,
-  gpa: 3.75
 }
 alana.latestWorkExperience = {
-  company: “Ketcham Cabinets”,
+  company: “Hencove”,
   position: “Full Time”,
-  role: “E-Commerce & Marketing Coordinator”,
-  startDate: “May 2019”,
+  role: “Frontend Developer”,
+  startDate: “September 2023”,
   endDate: “present”
 }
 alana.skills = {
-  languages: [“HTML” , “CSS” , “JavaScript” , “React”],
-  software: [“InDesign” , “Illustrator” , “AfterEffects” ,
-            “Photoshop”, “Premier Pro”, “XD” , “Figma”]
+  languages: [“HTML” , “SCSS/CSS” , “JavaScript”],
+  tech: [“Adobe Creative Suite”, "Figma", "Wix Studio", "Webflow", "WordPress", "HubSpot", "Salesforce"]
 }
-alana.interests = [“astrology”, “sci-fi movies”, “coding”, “tennis”]
+alana.interests = ["gluten free food", “sci-fi movies”, “coding”, “tennis”]
 alana.funFacts = {
   pets:{
     hasDogs = true,
-    numberOfDogs = 3,
+    numberOfDogs = 4,
     petBios = [
-      {name: “Stella”, age: 5},
-      {name: “Gracie”, age: 2},
-      {name: “Charlotte”, age: 1},
+      {name: “Stella”, age: 8},
+      {name: “Gracie”, age: 6},
+      {name: “Charlotte”, age: 5},
+      {name: “Josie”, age: 1},
     ]
   },
   favCoffee = “Vanilla Sweet Cream Cold Brew”
