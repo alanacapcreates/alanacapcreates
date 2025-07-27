@@ -25,7 +25,7 @@ alana.latestWorkExperience = {
 }
 alana.skills = {
   languages: ['HTML' , 'SCSS/CSS' , 'JavaScript'],
-  tech: ['Adobe Creative Suite', 'Figma', 'Wix Studio', 'Webflow', 'WordPress', 'HubSpot", 'Salesforce']
+  tech: ['Adobe Creative Suite', 'Figma', 'Wix Studio', 'Webflow', 'WordPress', 'HubSpot', 'Salesforce']
 }
 alana.interests = ['gluten free food', 'sci-fi movies', 'coding', 'tennis']
 alana.funFacts = {
